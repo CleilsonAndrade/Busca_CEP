@@ -27,6 +27,7 @@ Aplicação desenvolvida durante o basecamp da <a href="https://www.cataline.io/
 - HTML
 - CSS
 - JavaScript
+- axios(lib)
 
 # Design:
 - O modelo final para desktop está disponível na pasta `./design`
