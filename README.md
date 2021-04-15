@@ -14,7 +14,6 @@
   * [Tipo de fonte](#tipo-de-fonte)
 * [Instalação](#instalação)
 * [Links Contato](#links-contato)
-* [Links DevChallenge](#links-devchallenge)
 * [Licença](#licença)
 
 # Descrição
