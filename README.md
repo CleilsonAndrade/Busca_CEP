@@ -8,7 +8,8 @@
 
 * [Descrição](#descrição)
 * [Features](#features) 
-* [Techs](#techs) 
+* [Techs](#techs)
+  * [Libs](#libs)
 * [Design](#design)
   * [Cores](#cores)
   * [Tipo de fonte](#tipo-de-fonte)
@@ -17,17 +18,19 @@
 * [Licença](#licença)
 
 # Descrição
-Aplicação desenvolvida durante o basecamp da <a href="https://www.cataline.io/">Cataline.io</a>, utilizando a API da <a href="https://viacep.com.br/">ViaCEP</a> e para realizar as requisições é utilizado a lib <a href="https://github.com/axios/axios">axios</a>.
+Aplicação desenvolvida durante o basecamp da [**Cataline.io**](https://www.cataline.io/), utilizando a API da [**ViaCEP**](https://viacep.com.br/) e para realizar as requisições é utilizado a lib [axios](https://github.com/axios/axios)</a>.
 
 ## Features:
 - [x] Requisiçao a API<br>
 - [x] Responsividade<br>
 
 # Techs: 
-- HTML
-- CSS
-- JavaScript
-- axios(lib)
+- **HTML**
+- **CSS**
+- **JavaScript**
+
+## Libs:
+- **axios**
 
 # Design:
 - O modelo final para desktop está disponível na pasta `./design`
@@ -40,16 +43,18 @@ Aplicação desenvolvida durante o basecamp da <a href="https://www.cataline.io/
 - #28b4d2<br>
 
 ## Tipo de fonte:
-- Avenir, Helvetica, Arial, sans-serif
+- **Avenir, Helvetica, Arial, sans-serif**
 
 # Instalação:
-Clone este repositório:<br>
-`git clone https://github.com/CleilsonAndrade/Busca_CEP`<br>
-`cd ./Busca_CEP`
+```bash
+  # Clone este repositório:
+  $ git clone https://github.com/CleilsonAndrade/Busca_CEP
+  $ cd ./Busca_CEP
+```
 
 # Links Contato
-- Linkedin: https://www.linkedin.com/in/cleilson-andrade/<br>
-- GitHub: https://github.com/CleilsonAndrade<br>
+- **Linkedin:** https://www.linkedin.com/in/cleilson-andrade/<br>
+- **GitHub:** https://github.com/CleilsonAndrade<br>
 
 # Licença
 <p align="center"><a href="https://github.com/CleilsonAndrade/Busca_CEP/blob/master/LICENSE"><img src="https://camo.githubusercontent.com/002151a49ee9afae7ce4c2bce93056c9f0e108fbd14e5a7e46e7e79d87bb1071/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e63652d4d49542d626c75652e7376673f7374796c653d666c61742d737175617265" alt="licence mit" data-canonical-src="https://img.shields.io/badge/licence-MIT-blue.svg?style=flat-square" style="max-width:100%;"></a></p>
