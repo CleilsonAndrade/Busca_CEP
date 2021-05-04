@@ -4,6 +4,12 @@
   <img src="./design/desktop.png" alt="Logo" width="800">
 </div>
 
+---
+<h3 align="center">
+  <a href="https://cleilsonandrade.github.io/Busca_CEP/">Acessar demonstração</a>
+</h3>
+
+
 ## Índice
 
 * [Descrição](#descrição)
