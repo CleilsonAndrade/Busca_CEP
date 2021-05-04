@@ -24,7 +24,7 @@
 * [Licença](#licença)
 
 # Descrição
-Aplicação desenvolvida durante o basecamp da [**Cataline.io**](https://www.cataline.io/), utilizando a API da [**ViaCEP**](https://viacep.com.br/) e para realizar as requisições é utilizado a lib [axios](https://github.com/axios/axios)</a>.
+Aplicação desenvolvida durante o basecamp da [**Cataline.io**](https://www.cataline.io/), utilizando a API da [**ViaCEP**](https://viacep.com.br/) e para realizar as requisições é utilizado a lib [**axios**](https://github.com/axios/axios)</a>.
 
 ## Features:
 - [x] Requisiçao a API<br>
