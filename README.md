@@ -5,9 +5,8 @@
 </div>
 
 # 📒 Índice
-
 * [Descrição](#descrição)
-* [Features](#features) 
+* [Requisitos Funcionais](#requisitos)
 * [Tecnologias](#tecnologias)
 * [Design](#design)
   * [Cores](#cores)
@@ -18,7 +17,7 @@
 # 📃 <span id="descrição">Descrição</span>
 Aplicação desenvolvida durante o basecamp da [**Cataline.io**](https://www.cataline.io/), utilizando a API da [**ViaCEP**](https://viacep.com.br/) e para realizar as requisições é utilizado a lib [**axios**](https://github.com/axios/axios)</a>.
 
-## Features:
+# 📌 <span id="requisitos">Requisitos Funcionais</span>
 - [x] Requisição a API<br>
 - [x] Consulta de informações de endereço<br>
 - [x] Responsividade<br>
@@ -50,7 +49,6 @@ Aplicação desenvolvida durante o basecamp da [**Cataline.io**](https://www.cat
 ```
 
 # 📝 <span id="licença">Licença</span>
-
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
