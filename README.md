@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Busca CEP</h1>
-  <p>Aplicação para consultar Códigos de Endereçamento Postal (CEP) do Brasil.</p>
+  <p>Aplicação para consultar Códigos de Endereçamento Postal (CEP) do Brasil, utilizando API ViaCEP e validação de dados.</p>
   <img src="./design/desktop.png" alt="Logo" width="800">
 </div>
 
@@ -15,7 +15,7 @@
 * [Licença](#licença)
 
 # 📃 <span id="descrição">Descrição</span>
-Aplicação desenvolvida durante o basecamp da [**Cataline.io**](https://www.cataline.io/), utilizando a API da [**ViaCEP**](https://viacep.com.br/) e para realizar as requisições é utilizado a lib [**axios**](https://github.com/axios/axios)</a>.
+Aplicação desenvolvida durante o basecamp da [**Cataline.io**](https://www.cataline.io/), utilizando a API da [**ViaCEP**](https://viacep.com.br/) e para realizar as requisições é utilizado a lib [**axios**](https://github.com/axios/axios)</a> e validando dados.
 
 # 📌 <span id="requisitos">Requisitos Funcionais</span>
 - [x] Requisição a API<br>
