@@ -44,7 +44,7 @@ Aplicação desenvolvida durante o basecamp da [**Cataline.io**](https://www.cat
 # 🚀 <span id="instalação">Instalação</span>
 ```bash
   # Clone este repositório:
-  $ git clone https://github.com/CleilsonAndrade/Busca_CEP
+  $ git clone https://github.com/CleilsonAndrade/Busca_CEP.git
   $ cd ./Busca_CEP
 ```
 
